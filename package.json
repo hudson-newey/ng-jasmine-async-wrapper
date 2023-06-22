@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@angular/core": "^16.1.2"
+  },
+  "name": "ng-jasmine-async-wrapper",
+  "description": "A wrapper for async functions in Angular + Jasmine tests",
+  "version": "0.0.1",
+  "main": "async-wrapper.ts",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudson-newey/ng-jasmine-async-wrapper.git"
+  },
+  "keywords": [
+    "jasmine",
+    "angular",
+    "async"
+  ],
+  "author": "hudson-newey",
+  "license": "Unilicense",
+  "bugs": {
+    "url": "https://github.com/hudson-newey/ng-jasmine-async-wrapper/issues"
+  },
+  "homepage": "https://github.com/hudson-newey/ng-jasmine-async-wrapper#readme"
+}
